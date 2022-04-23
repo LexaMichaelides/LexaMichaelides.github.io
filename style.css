@@ -1,3 +1,40 @@
-p {
-  color: #2e343b;
+html {
+  font-size: 11px; 
+  font-family: 'Pontano Sans', sans-serif;
+  /* text-align: center; */
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  /* background-color: #FF9500; */
+  padding: 0 20px 20px 20px;
+}
+
+h1 {
+  margin: 0;
+  padding: 10px 0;
+  font-size: 22px;
+  font-family: 'Prata', serif;
+
+}
+
+h2 {
+  margin: 0;
+  padding: 10px 0;
+  font-size: 14px;
+  font-family: 'Prata', serif;
+}
+
+h3 {
+  margin: 0;
+  padding: 0px 0;
+  font-size: 11px; 
+  font-family: 'Pontano Sans', sans-serif;
+}
+
+p, li {
+  line-height: 2;
+  letter-spacing: 1px;
+
 }
