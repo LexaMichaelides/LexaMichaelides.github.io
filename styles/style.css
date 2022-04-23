@@ -12,6 +12,15 @@ body {
   letter-spacing: 1px;
 }
 
+.page {
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+.body-of-page {
+  padding: 0;
+}
+
 h1 {
   margin: 0;
   padding: 10px 0;
